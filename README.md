@@ -2,7 +2,7 @@
 
 basic c keylogger for educational purposes
 
-if you want to use it you still need to 
+to use via usb it you still need to 
 
 - code data exfiltration
 - buy a usb
