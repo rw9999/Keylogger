@@ -1,5 +1,5 @@
 # Keylogger
 
-not uasable
+not usable
 
 for educational purposes
